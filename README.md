@@ -19,7 +19,7 @@ I'm a solo builder from İstanbul. I build software for animals and the people w
   <tr>
     <td align="center"><h3>~400k</h3>lines of Dart and TypeScript</td>
     <td align="center"><h3>400+</h3>written design decisions</td>
-    <td align="center"><h3>3,500+</h3>commits since July 2026</td>
+    <td align="center"><h3>5,200+</h3>contributions since July 2026<br/>across all projects</td>
   </tr>
 </table>
 
