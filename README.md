@@ -37,7 +37,7 @@ I'm a solo builder from İstanbul. I build software for animals and the people w
 
 Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 
-🌐 **Try it:** [echos.com.tr](https://www.echos.com.tr) · 📸 [Instagram](https://www.instagram.com/withechos.tr) · 𝕏 [@withEchos](https://x.com/withEchos)
+🌐 **Try it:** [echos.com.tr](https://www.echos.com.tr)
 
 ## 🩺 Echos Asistan
 
