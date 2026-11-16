@@ -19,16 +19,6 @@ I'm a solo builder from İstanbul. I build software for animals and the people w
 
 Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 
-<p align="center">
-  <img src="assets/echos-harita.jpg" alt="Echos map with lost and found pins" width="30%" />
-  &nbsp;
-  <img src="assets/echos-ilan.jpg" alt="A lost cat listing" width="30%" />
-  &nbsp;
-  <img src="assets/echos-sahiplendirme.jpg" alt="Adoption listings" width="30%" />
-</p>
-
-<sub>Screens from a local build with sample data.</sub>
-
 🌐 **Try it:** [echos.com.tr](https://www.echos.com.tr) · 📸 [Instagram](https://www.instagram.com/withechos.tr) · 𝕏 [@withEchos](https://x.com/withEchos)
 
 ## 🩺 Echos Asistan
@@ -47,14 +37,6 @@ Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 - **QR tag:** a tag on the collar; whoever finds your pet scans it and reaches you.
 
 Coming soon to Google Play · iOS next.
-
-<p align="center">
-  <img src="assets/asistan-bugun.jpg" alt="Asistan today screen with doses and expenses" width="30%" />
-  &nbsp;
-  <img src="assets/asistan-saglik-karnesi.jpg" alt="Asistan health record timeline" width="30%" />
-  &nbsp;
-  <img src="assets/asistan-takvim.jpg" alt="Asistan calendar" width="30%" />
-</p>
 
 ## 🎮 Games
 
