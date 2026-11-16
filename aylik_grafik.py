@@ -35,7 +35,8 @@ def sorgula(kullanici, bas, son, belirtec):
 def aylik(kullanici, belirtec, bugun):
     ilk = dt.date(bugun.year - 1, bugun.month, 1) + dt.timedelta(days=32)
     ilk = ilk.replace(day=1)  # 11 ay önceki ayın başı: toplam 12 ay
-    gunler = sorgula(kullanici, f"{ilk}T00:00:00Z", f"{bugun}T23:59:59Z", belirtec)
+    # bitiş yarın: sunucu UTC'de koşar, Türkiye gününün ilk saatlerindeki katkılar kesilmesin
+    gunler = sorgula(kullanici, f"{ilk}T00:00:00Z", f"{bugun + dt.timedelta(days=1)}T23:59:59Z", belirtec)
     toplam = {}
     for g in gunler:
         anahtar = g["date"][:7]
