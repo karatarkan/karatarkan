@@ -8,9 +8,27 @@
 
 I'm a solo builder from İstanbul. I build software for animals and the people who look after them, and I make small mobile games on the side.
 
+## 🔢 Under the hood
+
+<table>
+  <tr>
+    <td align="center" width="33%"><h3>4 apps · 1 backend</h3>Next.js web + three Flutter apps<br/>on one Supabase/Postgres database</td>
+    <td align="center" width="33%"><h3>~14,000</h3>automated tests<br/>unit · widget · integration · end-to-end</td>
+    <td align="center" width="33%"><h3>574</h3>database migrations</td>
+  </tr>
+  <tr>
+    <td align="center"><h3>~400k</h3>lines of Dart and TypeScript</td>
+    <td align="center"><h3>400+</h3>written design decisions</td>
+    <td align="center"><h3>3,600+</h3>commits since March 2026</td>
+  </tr>
+</table>
+
 ## 🐾 Echos
 
-<a href="https://www.echos.com.tr"><img src="https://www.echos.com.tr/og-image.png" alt="Echos" width="100%" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/echos-logo-dark.svg" />
+  <img src="assets/echos-logo.svg" alt="Echos" width="120" align="right" />
+</picture>
 
 **A neighbourhood radar that reunites lost and found pets and street animals with the people looking for them.**
 
