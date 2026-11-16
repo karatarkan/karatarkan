@@ -56,7 +56,12 @@ Coming soon to Google Play · iOS next.
 
 ## 📈 Activity
 
-Most of my work lives in private repositories, so the graph below says more than my public repo list.
+Most of my work lives in private repositories, so these numbers say more than my public repo list.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/aylik-katki-koyu.svg" />
+  <img src="assets/aylik-katki-acik.svg" alt="Contributions per month over the last 12 months" width="100%" />
+</picture>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=karatarkan&theme=dark&hide_border=true" alt="GitHub contribution streak" />
