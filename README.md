@@ -12,7 +12,7 @@ I'm a solo builder from İstanbul. I build software for animals and the people w
 
 <table>
   <tr>
-    <td align="center" width="33%"><h3>4 apps · 1 backend</h3>Next.js web + three Flutter apps<br/>on one Supabase/Postgres database</td>
+    <td align="center" width="33%"><h3>2 products · 4 apps</h3>Echos (web + mobile), Echos Asistan<br/>and an admin app, all on one<br/>Supabase/Postgres database</td>
     <td align="center" width="33%"><h3>~14,000</h3>automated tests<br/>unit · widget · integration · end-to-end</td>
     <td align="center" width="33%"><h3>574</h3>database migrations</td>
   </tr>
