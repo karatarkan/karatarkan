@@ -29,7 +29,7 @@ Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 
 <sub>Screens from a local build with sample data.</sub>
 
-🌐 **Try it:** [echos.com.tr](https://www.echos.com.tr) · 🧪 **Android beta:** [join the testers group](https://groups.google.com/g/echos-testciler) · 📸 [Instagram](https://www.instagram.com/withechos.tr) · 𝕏 [@withEchos](https://x.com/withEchos)
+🌐 **Try it:** [echos.com.tr](https://www.echos.com.tr) · 📸 [Instagram](https://www.instagram.com/withechos.tr) · 𝕏 [@withEchos](https://x.com/withEchos)
 
 ## 🩺 Echos Asistan
 
@@ -46,7 +46,7 @@ Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 - **Vets:** save your clinics, book visits and reach an emergency screen fast.
 - **QR tag:** a tag on the collar; whoever finds your pet scans it and reaches you.
 
-Android, in testing on Google Play · iOS coming.
+Coming soon to Google Play · iOS next.
 
 <p align="center">
   <img src="assets/asistan-bugun.jpg" alt="Asistan today screen with doses and expenses" width="30%" />
@@ -87,6 +87,6 @@ Most of my work lives in private repositories, so the graph below says more than
 
 Merhaba, ben Tarkan. İstanbul'dan, hayvanlar ve onlara bakan insanlar için yazılım geliştiriyorum. **Echos**, kayıp ve bulunan sokak ve evcil hayvanları mahalle mahalle buluşturan ücretsiz ve reklamsız bir radar. **Echos Asistan** ise sahiplendiğin dostun için: sağlık karnesi, aşı takvimi ve hatırlatmalar, mama ve gider defteri, veterinerlerin ve QR künyesi. Boş zamanlarımda küçük mobil oyunlar yapıyorum.
 
-🌐 [echos.com.tr](https://www.echos.com.tr) · 🧪 Android testine katılmak için: [testçi grubu](https://groups.google.com/g/echos-testciler)
+🌐 [echos.com.tr](https://www.echos.com.tr)
 
 </details>
