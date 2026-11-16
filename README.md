@@ -19,11 +19,24 @@ I'm a solo builder from İstanbul. I build software for animals and the people w
 
 Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 
-🌐 [echos.com.tr](https://www.echos.com.tr) · 📸 [Instagram](https://www.instagram.com/withechos.tr) · 𝕏 [@withEchos](https://x.com/withEchos)
+<p align="center">
+  <img src="assets/echos-harita.jpg" alt="Echos map with lost and found pins" width="30%" />
+  &nbsp;
+  <img src="assets/echos-ilan.jpg" alt="A lost cat listing" width="30%" />
+  &nbsp;
+  <img src="assets/echos-sahiplendirme.jpg" alt="Adoption listings" width="30%" />
+</p>
+
+<sub>Screens from a local build with sample data.</sub>
+
+🌐 **Try it:** [echos.com.tr](https://www.echos.com.tr) · 🧪 **Android beta:** [join the testers group](https://groups.google.com/g/echos-testciler) · 📸 [Instagram](https://www.instagram.com/withechos.tr) · 𝕏 [@withEchos](https://x.com/withEchos)
 
 ## 🩺 Echos Asistan
 
-<img src="https://www.echos.com.tr/marka/asistan-logo-mail.jpg" alt="Echos Asistan" width="140" align="right" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/asistan-logo-dark.svg" />
+  <img src="assets/asistan-logo.svg" alt="Echos Asistan" width="110" align="right" />
+</picture>
 
 **A companion app for the pet you already have,** from the same Echos account.
 
@@ -35,17 +48,23 @@ Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 
 Android, in testing on Google Play · iOS coming.
 
-<br clear="right" />
+<p align="center">
+  <img src="assets/asistan-bugun.jpg" alt="Asistan today screen with doses and expenses" width="30%" />
+  &nbsp;
+  <img src="assets/asistan-saglik-karnesi.jpg" alt="Asistan health record timeline" width="30%" />
+  &nbsp;
+  <img src="assets/asistan-takvim.jpg" alt="Asistan calendar" width="30%" />
+</p>
 
-## 🎮 Games in progress
+## 🎮 Games
 
-| Game | What it is | Built with |
-|---|---|---|
-| **Clockword** | A word and trivia game across the ages: era questions, letter-tile hints | Flutter |
-| **Rune Master** *(working title)* | One-handed roguelite rune puzzle: draw runes, place them on a spell circle, discover spells | Godot 4 |
-| **Pocket Roots** | Turn-based hex island puzzle: restore barren islands and prepare for natural crises | Godot 4 |
-| **Öte** *(working title)* | An AI-powered mobile RPG with a creature that hatches from your personality | Godot 4 · Claude |
-| **Yuva** *(working title)* | A no-combat AI virtual pet that grows, talks and passes on to the next generation | Godot 4 · Claude |
+| Game | What it is | Built with | Status |
+|---|---|---|---|
+| **Clockword** | A word and trivia game across the ages: era questions, letter-tile hints | Flutter | 🟢 Active · Android testing |
+| **Öte** *(working title)* | An AI-powered mobile RPG with a creature that hatches from your personality | Godot 4 · Claude | 🟡 Prototypes |
+| **Yuva** *(working title)* | A no-combat AI virtual pet that grows, talks and passes on to the next generation | Godot 4 · Claude | 🟡 Early prototype |
+| **Rune Master** *(working title)* | One-handed roguelite rune puzzle: draw runes, place them on a spell circle, discover spells | Godot 4 | ⏸️ Prototype, on hold |
+| **Pocket Roots** | Turn-based hex island puzzle: restore barren islands and prepare for natural crises | Godot 4 | ⏸️ Prototype, on hold |
 
 ## 🛠️ Tech I use
 
@@ -68,6 +87,6 @@ Most of my work lives in private repositories, so the graph below says more than
 
 Merhaba, ben Tarkan. İstanbul'dan, hayvanlar ve onlara bakan insanlar için yazılım geliştiriyorum. **Echos**, kayıp ve bulunan sokak ve evcil hayvanları mahalle mahalle buluşturan ücretsiz ve reklamsız bir radar. **Echos Asistan** ise sahiplendiğin dostun için: sağlık karnesi, aşı takvimi ve hatırlatmalar, mama ve gider defteri, veterinerlerin ve QR künyesi. Boş zamanlarımda küçük mobil oyunlar yapıyorum.
 
-🌐 [echos.com.tr](https://www.echos.com.tr)
+🌐 [echos.com.tr](https://www.echos.com.tr) · 🧪 Android testine katılmak için: [testçi grubu](https://groups.google.com/g/echos-testciler)
 
 </details>
