@@ -13,13 +13,13 @@ I'm a solo builder from İstanbul. I build software for animals and the people w
 <table>
   <tr>
     <td align="center" width="33%"><h3>2 products · 4 apps</h3>Echos (web + mobile), Echos Asistan<br/>and an admin app, all on one<br/>Supabase/Postgres database</td>
-    <td align="center" width="33%"><h3>~14,000</h3>automated tests<br/>unit · widget · integration · end-to-end</td>
-    <td align="center" width="33%"><h3>574</h3>database migrations</td>
+    <td align="center" width="33%"><h3>~16,000</h3>automated tests<br/>unit · widget · integration · end-to-end</td>
+    <td align="center" width="33%"><h3>622</h3>database migrations</td>
   </tr>
   <tr>
-    <td align="center"><h3>~400k</h3>lines of Dart and TypeScript</td>
-    <td align="center"><h3>400+</h3>written design decisions</td>
-    <td align="center"><h3>5,200+</h3>contributions since July 2026<br/>across all projects</td>
+    <td align="center"><h3>~590k</h3>lines of Dart and TypeScript<br/>~340k app code · ~250k tests</td>
+    <td align="center"><h3>430+</h3>written design decisions</td>
+    <td align="center"><h3>5,700+</h3>contributions since July 2026<br/>across all projects</td>
   </tr>
 </table>
 
@@ -54,7 +54,7 @@ Web, Android and iOS from one Supabase/Postgres backend. Free, no ads.
 - **Vets:** save your clinics, book visits and reach an emergency screen fast.
 - **QR tag:** a tag on the collar; whoever finds your pet scans it and reaches you.
 
-Coming soon to Google Play · iOS next.
+🌐 **See it:** [echos.com.tr/asistan](https://www.echos.com.tr/asistan) · coming soon to Google Play · iOS next.
 
 ## 🎮 Games
 
@@ -92,6 +92,6 @@ Most of my work lives in private repositories, so these numbers say more than my
 
 Merhaba, ben Tarkan. İstanbul'dan, hayvanlar ve onlara bakan insanlar için yazılım geliştiriyorum. **Echos**, kayıp ve bulunan sokak ve evcil hayvanları mahalle mahalle buluşturan ücretsiz ve reklamsız bir radar. **Echos Asistan** ise sahiplendiğin dostun için: sağlık karnesi, aşı takvimi ve hatırlatmalar, mama ve gider defteri, veterinerlerin ve QR künyesi. Boş zamanlarımda küçük mobil oyunlar yapıyorum.
 
-🌐 [echos.com.tr](https://www.echos.com.tr)
+🌐 [echos.com.tr](https://www.echos.com.tr) · [echos.com.tr/asistan](https://www.echos.com.tr/asistan)
 
 </details>
